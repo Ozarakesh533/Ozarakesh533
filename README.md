@@ -1,5 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh!+😁;"/>
-<img align="right" alt="Coding" width="310" src="https://github.com/CodeWithCharan/CodeWithCharan/assets/106027109/25360c58-4939-4e82-9bb4-b1dec48b2ed1">
+<img align="right" alt="Coding" width="310" src="![image](https://github.com/user-attachments/assets/507cc92a-64b0-4d3a-894b-298101033e62)
+">
 
 <p align="left"> <img src="![image](https://github.com/user-attachments/assets/9ad7b323-2fde-4d23-9649-6603999826bc)
 " /> </p>
