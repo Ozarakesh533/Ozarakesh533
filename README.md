@@ -1,59 +1,36 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh!+😁;"/>
-<img align="right" alt="Coding" width="310" src="![image](https://github.com/user-attachments/assets/507cc92a-64b0-4d3a-894b-298101033e62)
-">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=42&color=8A2BE2&center=true&vCenter=true&width=900&height=90&lines=Welcome+To+My+GitHub+Space!+👨‍💻;+Hell+I'm+Rakesh+Oza+|+Data+Science+Explorer!+✨;+Let's+Build+The+Future+Together!+💡" />
 
-<p align="left"> <img src="![image](https://github.com/user-attachments/assets/9ad7b323-2fde-4d23-9649-6603999826bc)
-" /> </p>
+<h3 align="Left">A passionate Software Developer and Data Science Enthusiast from India</h3>
 
-```python
-class Charan:
-  def __init__(self):
-    self.name = "Sri Charan Thoutam"
-    self.username = "CodeWithCharan"
-    self.location = "India"
-  
-  def __str__(self):
-    return self.name
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-if __name__ == '__main__':
-    me = Charan()
-    print(me)
-```
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://codewithcharan.github.io/My-Portfolio/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozarakesh533&label=Profile%20views&color=0e75b6&style=flat" alt="ozarakesh533" /> </p>
 
-- 📝 Check out my [Resume](https://codewithcharan.github.io/My-Portfolio/resumes/Charan_GenAI_Resume.pdf)
-- :email: Email me at **thoutamsricharan@gmail.com**
+- 🌱 I’m addicted to **learn and grow every day**
 
-## :mailbox: Connect With Me
-<img align="right" src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="handshake gif" width="150">
+- 💡 I’m currently exploring **AI-powered solutions and developing innovative data science projects.**
 
+- 🧠 I’ve worked on projects like **Gempricer-AI, EV Analysis, and AI-Code Reviewer**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://ozarakesh533.github.io/My_Portfolio_website/)
+
+- 📫 Let’s collaborate! Email me at **ozarakesh533@gmail.com**
+
+- 📝 Take a look at my Resume to know more about my skills and experiences. [Resume](https://ozarakesh533.github.io/My_Portfolio_website/RakeshOza-Resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/codewithcharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithcharan" height="30" width="40" style="margin-right: 10px" /></a>
-  <a href="https://instagram.com/joyboy._.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr.__.unique" height="30" width="40" /></a>
-  <a href="https://twitter.com/Joyboy_x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithcharan" height="30" width="40" style="margin-right: 10px" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakeshoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakeshoza/" height="30" width="40" /></a>
+<a href="https://instagram.com/rakesh533oza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh533oza" height="30" width="40" /></a>
+<a href="https://medium.com/@ozarakesh7821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozarakesh7821" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ozarakesh7821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ozarakesh7821" height="30" width="40" /></a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## :hourglass_flowing_sand: Skills
-<img align="right" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="experience gif" width="150">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozarakesh533&show_icons=true&locale=en&layout=compact" alt="ozarakesh533" /></p>
 
-<img src="https://skillicons.dev/icons?i=py,vscode,aws,docker,fastapi,flask,pytorch,tensorflow,anaconda,git,github,githubactions" />
-<img src="https://skillicons.dev/icons?i=ai,regex,sklearn,mysql,mongodb,html,css,js,windows,linux,pandas,numpy,mlflow,dvc,streamlit" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozarakesh533&show_icons=true&locale=en" alt="ozarakesh533" /></p>
 
-## :dizzy: My Contributions
-[![Charan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithCharan&bg_color=000000&color=a59b9b&line=25b63d&point=a59c9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## :chart_with_upwards_trend: Stats
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithcharan&&theme=tokyonight" alt="codewithcharan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithcharan&show_icons=true&locale=en&theme=tokyonight" alt="codewithcharan" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithcharan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="codewithcharan" /></p>
-
-## :musical_note: Now Playing
-<img align="right" src="https://github.com/CodeWithCharan/CodeWithCharan/assets/106027109/fecc5bbe-0e7e-470b-8b47-b64698679912" alt="vibing gif" width="250">
-
-[![Spotify](https://github-readme-spotify-integration.vercel.app/api/spotify)](https://open.spotify.com/playlist/2HPkKZL6zbcFZ6yLq44yKb?si=71985dda53e14643)
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Message+me+on+Linkedin!;+I'm+always+down+to+collab+:)"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozarakesh533&" alt="ozarakesh533" /></p>
